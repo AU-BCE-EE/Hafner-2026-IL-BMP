@@ -2,7 +2,7 @@
 Public repo for sharing data associated with IL-BMP-2023-2024 paper
 
 # Link to paper
-Excepted soon (by end of January 2026)
+<https://doi.org/10.1016/j.biortech.2026.134136>
 
 # Maintainer
 Sasha Hafner.
