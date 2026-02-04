@@ -1,8 +1,12 @@
 # Hafner-2026-IL-BMP
-Public repo for sharing data associated with IL-BMP-2023-2024 paper
+Public repository for sharing data associated with IL-BMP-2023-2024 paper on measurement of biochemical methane potential (BMP):
+*Reliable biochemical methane potential testing: insights and recommendations from global interlaboratory study*.
+As described in detail in the [paper](https://doi.org/10.1016/j.biortech.2026.134136), the work was aimed at understanding and improving reproducibility and accuracy in measurement of BMP.
+This repo includes anonymous reported BMP values of multiple shared substrates from 31 laboratories, biogas volume measurements, specific methane production curves, and related data. 
+Data may be useful for evaluating interlaboratory reproducibility or accuracy (as in the original paper), to check or demonstrate calculation of BMP, for evaluation validation criteria or screening tools, or to test methods for extracting and comparing kinetic information.
 
 # Link to paper
-<https://doi.org/10.1016/j.biortech.2026.134136>
+Hafner, S.D., Leca, E., Sambusiti, C., Astals, S., Azam, O., Koch, K., Liu, J., Møller, H.B., Nistor, Mi., Olaya-Rincon, M., Peyrelasse, C., Ward, A.J., Zennaro, B., Monlau, F. 2026. Reliable biochemical methane potential testing: insights and recommendations from global interlaboratory study. Bioresource Technology. <https://doi.org/10.1016/j.biortech.2026.134136>
 
 # Maintainer
 Sasha Hafner.
